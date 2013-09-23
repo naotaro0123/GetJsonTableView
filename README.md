@@ -7,6 +7,5 @@ SBjsonをフレームワーク追加してます。
 
 jsonデータはmysqlから取得した状態を同じ形式にしました。
 
-![キャプチャ](http://simplecode.jp/lolipop/github/getJson.png)
 
-
+<img src="http://simplecode.jp/lolipop/github/getJson.png" width="30%" height="30%">　
